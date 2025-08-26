@@ -1,0 +1,454 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/2_7e3a5a77-26a5-491d-bf0e-f9ccf34a2e33.png",
+            "mobile_image": "shopify://shop_images/1b4c663ba501011e52396ac476c0f42a.png",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-end-center text-center",
+            "desktop_text_position": "sm:place-self-end-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "בואו לְעָצֶיץ",
+            "button_1_link": "https://www.ho-ya.co.il/collections/%D7%A6%D7%9E%D7%97%D7%99-%D7%91%D7%99%D7%AA",
+            "button_1_style": "solid",
+            "button_1_background": "#dcf442",
+            "button_1_text_color": "#013300",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "rgba(0,0,0,0)",
+            "background_opacity": 0,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(246, 246, 246, 0), rgba(4, 4, 4, 0) 100%)"
+          }
+        }
+      },
+      "block_order": [
+        "slide-1"
+      ],
+      "settings": {
+        "allow_transparent_header": false,
+        "show_next_section_button": false,
+        "media_size": "auto",
+        "show_initial_transition": false,
+        "autoplay": true,
+        "autoplay_pause_on_video": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)",
+        "controls_color": "#ffffff"
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "צמחי-בית",
+            "products_count": 8,
+            "title": "",
+            "link_url": "shopify://collections/צמחי-בית",
+            "link_text": "לכל הצמחים"
+          }
+        },
+        "collection_YUNPXJ": {
+          "type": "collection",
+          "settings": {
+            "collection": "מטהרי-אוויר",
+            "products_count": 8,
+            "title": "מטהרי אוויר",
+            "link_url": "",
+            "link_text": "צפו בהכל"
+          }
+        },
+        "collection_Wr8dCx": {
+          "type": "collection",
+          "settings": {
+            "collection": "פורחים-פקעות",
+            "products_count": 8,
+            "title": "",
+            "link_url": "",
+            "link_text": "צפו בהכל"
+          }
+        },
+        "collection_E9WgYW": {
+          "type": "collection",
+          "settings": {
+            "collection": "קקטוסים-וסוקולנטים",
+            "products_count": 8,
+            "title": "",
+            "link_url": "",
+            "link_text": "צפו בהכל"
+          }
+        }
+      },
+      "block_order": [
+        "collection-1",
+        "collection_YUNPXJ",
+        "collection_Wr8dCx",
+        "collection_E9WgYW"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1372110e-9b33-459c-982b-50c61ea6dee6",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "<strong>הבית רוצה צמח – בואו תבחרו את הסגנון שמתאים לכם</strong>"
+      }
+    },
+    "images_with_text_scroll_Gy4ERC": {
+      "type": "images-with-text-scroll",
+      "blocks": {
+        "image_with_text_jFXVGy": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/MG_3915-s_1520x_465775c3-1a99-47fe-ad1b-0a2e90377b76.webp",
+            "subheading": "",
+            "title": "איך תשקו נכון את צמחי הבית שלכם?",
+            "content": "<p>הידעתם שרוב מקרי המוות של צמחים נובעים מהשקיה לא נכונה או יותר נכון, השקיית יתר. ריכזנו עבורכם 5 טיפים שיעשו לכם קצת סדר באיך ומתי כדאי להשקות את הג'ונגל הפרטי שלכם.</p>",
+            "link_text": "בואו לעציץ",
+            "link_url": "shopify://collections/צמחי-בית",
+            "link_style": "link"
+          }
+        },
+        "image_with_text_ArPBcj": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/Peled-Studios---Stone-Mill-122-HDR-copy_1520x_e56d4ba7-7e9a-40f7-9491-768f298d8557.jpg",
+            "subheading": "",
+            "title": "Let's HOYA Your Business",
+            "content": "<p>נכנסתם למשרד חדש ובא לכם להכניס קצת ירוק? רוצים לרענן את המשרד הקיים עם צמחים ולא ידעים מאיפה להתחיל? אנחנו ב-HOYA בוחרים במיוחד את הצמחים הנכונים עבור החלל שלכם. <br/><br/></p>",
+            "link_text": "בואו לעציץ",
+            "link_url": "",
+            "link_style": "link"
+          }
+        },
+        "image_with_text_6hEx9e": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/Hoya-1_1520x_3400adca-3d2f-4167-aef6-2bf6368645c0.jpg",
+            "subheading": "",
+            "title": "כל צמח צריך בית",
+            "content": "<p>בואו להינות ממאגר בתי העציץ היפים שלנו! מבטיחים לכם מגוון צבעים וצורות שישדרג כל פינה בבית.</p>",
+            "link_text": "בואו לעציץ",
+            "link_url": "shopify://collections/צמחי-בית",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_jFXVGy",
+        "image_with_text_ArPBcj",
+        "image_with_text_6hEx9e"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1a769a40-6c2c-471c-bc82-8e4c64172e39",
+        "image_position": "end",
+        "text_alignment": "center",
+        "heading_tag": "h2",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "featured_collections_UaqYPC": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_9AL3zX": {
+          "type": "collection",
+          "settings": {
+            "collection": "למתחילים",
+            "products_count": 8,
+            "title": "הורגי צמחים סדרתיים? דאגנו לכם",
+            "link_url": "shopify://collections/צמחי-בית",
+            "link_text": "לכל הצמחים"
+          }
+        }
+      },
+      "block_order": [
+        "collection_9AL3zX"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1372110e-9b33-459c-982b-50c61ea6dee6",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
+    "slideshow_YUDcam": {
+      "type": "slideshow",
+      "blocks": {
+        "image_VjgBmF": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/HOYA_GIFT_CARD_2.jpg",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 1000,
+            "button_1_text": "",
+            "button_1_link": "https://www.ho-ya.co.il/products/new-gift-card?variant=40180157284529",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 0,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(NaN, NaN, NaN, 1), rgba(4, 4, 4, 0.65) 100%)"
+          }
+        }
+      },
+      "block_order": [
+        "image_VjgBmF"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "{padding-bottom: 5px; background-color: white;}"
+      ],
+      "settings": {
+        "allow_transparent_header": false,
+        "show_next_section_button": false,
+        "media_size": "auto",
+        "show_initial_transition": false,
+        "autoplay": true,
+        "autoplay_pause_on_video": true,
+        "cycle_speed": 5,
+        "background": "#ffffff",
+        "controls_color": "#ffffff"
+      }
+    },
+    "rich_text_e6TfcA": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_FcqbCX": {
+          "type": "heading",
+          "settings": {
+            "text": "מה אתם חושבים עלינו?",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_FcqbCX"
+      ],
+      "custom_css": [
+        "{padding-top: 34px; background-color: white;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": true
+      }
+    },
+    "174712486927da4bac": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_card_carousel_section_pDA4jt": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-card-carousel-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "maxWidth": 1100,
+            "borderRadius": 8,
+            "itemsPerView": 4,
+            "mobileItemsPerView": 1,
+            "maxNumberOfCharacters": 70,
+            "imageRatio": "1",
+            "reviewerNameColor": "#013300",
+            "textColor": "#013300",
+            "itemBackgroundColor": "#ffffff",
+            "starsColor": "#ff99cc",
+            "starsBackgroundColor": "#dcf442",
+            "arrows_backgroundColor": "#013300",
+            "arrows_iconColor": "#dcf442",
+            "shadow": "basic",
+            "border_active": false,
+            "border_width": 2,
+            "border_color": "#000000",
+            "productIds": ""
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_card_carousel_section_pDA4jt"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "separate_section_with_border": false,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true
+      }
+    },
+    "rich_text_wwaPYb": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Ye8gyz": {
+          "type": "heading",
+          "settings": {
+            "text": "למה? HOYA!",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Ye8gyz"
+      ],
+      "settings": {
+        "color_scheme": "scheme-af8919aa-3bb1-4ea3-beeb-2a37c6925a6b",
+        "separate_section_with_border": true,
+        "content_width": "lg",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "text_with_icons_rcbDyt": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_7BwgAB": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-delivery-truck",
+            "custom_icon": "shopify://shop_images/Untitled-12_60x_053cbd7e-3e0c-4d6a-8e31-94d80355abff.jpg",
+            "icon_width": 60,
+            "mobile_icon_width": 56,
+            "title": "<strong>WE CARE</strong>",
+            "content": "<p>אנחנו ב HOYA עובדים עם מגדלים נבחרים שמבינים בצמחים ובצרכים שלהם, כל צמח וצמח נבדק באופן אישי , כדי שתקבלו את העציץ הכי טוב, בריא ויפה.</p>"
+          }
+        },
+        "item_QA4Jeb": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-customer-support",
+            "custom_icon": "shopify://shop_images/Untitled-1_60x_83ee227e-0ca8-4841-b5d9-95db1d1783f5.jpg",
+            "icon_width": 60,
+            "mobile_icon_width": 56,
+            "title": "IT'S A RELATIONSHIP",
+            "content": "<p>כדי להצליח לגדל צמחים שמחים צריך לבחור אותם נכון ולטפל בהם נכון. אנחנו כאן כדי לעזור לכם לתכנן את הפינה הירוקה וללוות אותכם כל הדרך עד לג'ונגל הפרטי.</p>"
+          }
+        },
+        "item_8GFcQ8": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-shield",
+            "custom_icon": "shopify://shop_images/Untitled-123_60x_6028ba14-f2c6-454a-984c-238fce1731af.jpg",
+            "icon_width": 60,
+            "mobile_icon_width": 56,
+            "title": "NEXT STOP, YOUR HOME",
+            "content": "<p>כל חבילה וכל צמח עוברים בקרת איכות על מנת שיגיעו אליכם בשלום ובזמן, ממש כמו להזמין סושי:) נותר לכם רק לספור את הדקות והעציצים החדשים שלכם בדרך הביתה.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_7BwgAB",
+        "item_QA4Jeb",
+        "item_8GFcQ8"
+      ],
+      "custom_css": [],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "separate_section_with_border": false,
+        "stack_on_mobile": false,
+        "icon_color": "#013300",
+        "text_color": "#013300",
+        "text_alignment": "center"
+      }
+    },
+    "1747122822ed9b36bd": {
+      "type": "apps",
+      "blocks": {
+        "instafeed_app_block_NGhGhN": {
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "Follow Us On @hoya_il",
+            "title_color": "#013300",
+            "title_size_v2": 49,
+            "alignment": "center",
+            "instafeed_margin_top": 0,
+            "instafeed_margin_bottom": 0,
+            "instafeed_margin_sides": 0,
+            "show_instagram_link": false,
+            "link_alignment": "left",
+            "link_color": "#000000",
+            "background_color": "",
+            "feed_id": "",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "instafeed_app_block_NGhGhN"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "settings": {
+        "color_scheme": "scheme-af8919aa-3bb1-4ea3-beeb-2a37c6925a6b",
+        "separate_section_with_border": true,
+        "blog": "blog",
+        "posts_count": 3,
+        "stack_on_mobile": false,
+        "show_category": false,
+        "show_date": false,
+        "show_excerpt": false,
+        "show_read_more": true,
+        "subheading": "הפינה הירוקה",
+        "title": "כל הסודות לצמחי בית שמחים",
+        "content": "",
+        "button_link": "",
+        "button_text": "צפו בהכל"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "featured-collections",
+    "images_with_text_scroll_Gy4ERC",
+    "featured_collections_UaqYPC",
+    "slideshow_YUDcam",
+    "rich_text_e6TfcA",
+    "174712486927da4bac",
+    "rich_text_wwaPYb",
+    "text_with_icons_rcbDyt",
+    "1747122822ed9b36bd",
+    "blog-posts"
+  ]
+}

@@ -1,0 +1,744 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "color_scheme": "",
+        "show_title": false,
+        "page_width": "xs"
+      }
+    },
+    "rich_text_8YJPLR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_KTBefR": {
+          "type": "heading",
+          "settings": {
+            "text": "Let's Hoya! Your Business",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KTBefR"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "faq_4Um4JD": {
+      "type": "faq",
+      "blocks": {
+        "category_bRbTTg": {
+          "type": "category",
+          "settings": {
+            "title": "עלינו",
+            "icon": "none",
+            "icon_width": 16
+          }
+        },
+        "question_4jki3D": {
+          "type": "question",
+          "settings": {
+            "question": "מה אתם עושים כאן בעצם?",
+            "answer": "<p>אנחנו משתלה דיגיטלית לצמחי בית שתעזור לכם להכניס ירוק לבית ולמשרד בקלות, במהירות וללא כאבים מיותרים. זה מאוד פשוט - אתם בוחרים צמח שמוצא חן בעיניכם, (לפי המקום שאתם רוצים לשים אותו – בפנים, בחוץ, במשרד וכיו\"ב). אנחנו, דואגים לשלוח אותם אליכם.</p>"
+          }
+        },
+        "question_BxyzMU": {
+          "type": "question",
+          "settings": {
+            "question": "איפה אתם נמצאים והאם אפשר לבקר אותכם?",
+            "answer": "<p>המרכז הלוגיסטי שלנו נמצא במשמר השבעה. במידה ותבחרו לעשות איסוף עצמי תוכלו לבוא להגיד שלום :)</p>"
+          }
+        },
+        "question_WafqgP": {
+          "type": "question",
+          "settings": {
+            "question": "איך ניתן לקבל שירותים עבור עסקים וחברות?",
+            "answer": "<p>אנחנו נשמח להתאים לכם את החבילות העסקיות שלנו שכוללות מתנות לעובדים או יצירת ג׳ונגל אורבני לחללי המשרד שלכם. במידה ותרצו לקבל הצעה ולשמוע על השירותים שלנו אנא צרו איתנו קשר במייל contact@ho-ya.co.il.</p>"
+          }
+        },
+        "category_nnYYH7": {
+          "type": "category",
+          "settings": {
+            "title": "צמחים ושתילה",
+            "icon": "none",
+            "icon_width": 16
+          }
+        },
+        "question_yMRYxi": {
+          "type": "question",
+          "settings": {
+            "question": "מאיפה הצמחים שלכם?",
+            "answer": "<p>אנחנו משתפים פעולה עם מספר בתי גידול ומשתלות בארץ ובעולם, המתמחים בגידול צמחי בית. יש לנו ניסיון רב בגידול וטיפוח צמחים ואנו בוחרים את הצמחים המתאימים ביותר לתנאים הנפוצים אצל הלקוחות שלנו.</p>"
+          }
+        },
+        "question_rAggic": {
+          "type": "question",
+          "settings": {
+            "question": "יש לנו ילדים קטנים בבית. איזה צמחים צריך לקנות?",
+            "answer": "<p>לא כל הצמחים מתאימים לנשנוש או מגע של הצאצאים אוהבי הטבע שלכם. כל מה שצריך לעשות זה לעדכן אותנו, כדי שנוכל לוודא שהצמחים שהזמנתם הם אכן ידידותיים לילדים</p>"
+          }
+        },
+        "question_8D7eww": {
+          "type": "question",
+          "settings": {
+            "question": "כמה קל לטפל בצמחי הבית שאתם שולחים לי?",
+            "answer": "<p>לא צריך להיות בוגר 8200 כדי לטפל בצמחים שאנחנו שולחים לכם. אתם מקבלים מאיתנו הנחיות ברורות וצמחים שמתאימים שתנאים שלכם.</p>"
+          }
+        },
+        "question_iDqx3p": {
+          "type": "question",
+          "settings": {
+            "question": "איך אני יכול.ה לדעת שהצמח שתשלחו לי זהה למה שראיתי באתר?",
+            "answer": "<p>אמנם, אין שני צמחים שדומים האחד לשני אבל, אנחנו מצלמים את הצמחים שלנו ומעלים את התמונות לאתר, כך שהתמונה מאוד קרובה למה שתקבלו הביתה.</p>"
+          }
+        },
+        "question_PUeNrn": {
+          "type": "question",
+          "settings": {
+            "question": "איך לבחור את הצמח הנכון בשבילי?",
+            "answer": "<p>יש כמה גורמים חשובים שצריך לקחת בחשבון – כמה אור יש במקום שבו תשימו את הצמח? כמה פעמים תוכלו להשקות אותו? הוא צריך להיות ידידותי לבעלי חיים, בסביבה שלכם? איזה תאורה יש בחלל שבו יחיה הצמח? על בסיס הניסיון המקצועי שלנו, אנו מציעים באתר צמחים, המתאימים למגוון תנאים. כל מה שנשאר לכם זה לבחור את מה שהכי מוצא חן בעיניכם.</p>"
+          }
+        },
+        "question_67kceR": {
+          "type": "question",
+          "settings": {
+            "question": "אני הורג.ת צמחים סדרתי, אבל אני רוצה צמחים בבית. אתם יכולים לעזור לי בכלל?",
+            "answer": "<p>ברור דקסטר! כמו שאתם יודעים - לכל צמח יש את התנאים הספציפיים המתאימים לו ואנחנו, נעזור לכם לבחור את הצמח שיוכל לשרוד את כל הניסיונות שלכם לרצוח אותו. ועכשיו ברצינות – אנחנו ניתן לכם המלצה שתתאים לתנאים ולדרך הטיפול שלכם. חוץ מזה, לא צריך לזכור כלום, כי אנחנו מספקים מדריך שיעזור לכם לשמור על הצמח בחיים – קל, פשוט ויעיל, אפילו עבור רוצחי צמחים כמוכם.</p>"
+          }
+        },
+        "question_AFNBBN": {
+          "type": "question",
+          "settings": {
+            "question": "ומה לגבי בעלי חיים? מה יקרה אם הם יאכלו את העציץ שאתם שולחים?",
+            "answer": "<p>קודם כל, תאכילו את החיות שלכם בזמן ובשפע. אבל אם הם עדיין רוצים לכרסם עלים מן הטבע, תודיעו לנו מראש ונוודא שהצמחים שנשלח לכם, ישתלבו בדיאטה של החיית המחמד שלכם.</p>"
+          }
+        },
+        "question_t4nMDm": {
+          "type": "question",
+          "settings": {
+            "question": "איך כמות האור שיש בחלל שלי יכולה להשפיע על הצמח?",
+            "answer": "<p>נגיד את זה הכי פשוט שיש – צמחים זקוקים לאור. יש צמחים שאוהבים הרבה מאוד אור וכאלו שלא זקוקים לכמות גדולה של אור. אם תכניסו צמח שאוהב הרבה אור לפינה עם אור מועט הוא לא ישרוד. זיכרו לבחור את הצמחים באתר שמתאימים לתנאי האור שיש לכם בבית. ומעבר לכך, תפתחו את התריסים ושלמו את חשבון החשמל בזמן – צמחים בבית, אור בבית!</p>"
+          }
+        },
+        "question_WxLAqJ": {
+          "type": "question",
+          "settings": {
+            "question": "באיזה גודל יגיעו הצמחים? ולאיזה גודל הם יכולים להגיע?",
+            "answer": "<p>מסתבר שגם אצל הצמחים הגודל כן קובע. אנחנו מציינים את גודל העציצים באתר וכן את הגודל אליו הוא יגיע. אם אתם מתכננים לשבור שיאים בצמחי בית, ספרו לנו על כך ונשמח לרשום אתכם לספר השיאים של גינס.</p>"
+          }
+        },
+        "category_HDrDNC": {
+          "type": "category",
+          "settings": {
+            "title": "הזמנות, שוברים ומבצעים",
+            "icon": "none",
+            "icon_width": 16
+          }
+        },
+        "question_QmUTtA": {
+          "type": "question",
+          "settings": {
+            "question": "איך מבצעים הזמנה אצלכם באתר?",
+            "answer": "<p>קלי קלות. בוחרים את הצמח שהכי אהבתם מבין המבחר הכיפי שיש לנו, בוחרים לו בית עציץ מגניב ואנחנו כבר נדאג שהוא יגיע אליכם שתול ורענן.</p>"
+          }
+        },
+        "question_Jyq7J4": {
+          "type": "question",
+          "settings": {
+            "question": "אני רוצה להזמין מתנה לחבר.ה, כיצד עלי למלא את פרטי ההזמנה?",
+            "answer": "<p>כשתסיימו לבחור את הצמחים שאתם רוצים לשלוח, חשוב שתגיעו לעגלת הקניות. שם ישנה אפשרות להוסיף את הברכה שלכם. לאחר מכן, שתתקדמו לעמוד הצ׳ק אאוט תוכלו להזין את פרטי הכתובת של מקבל המתנה. חשוב שתקפידו להזין את המייל שלכם, אליו תגיע החשבונית.</p>"
+          }
+        },
+        "question_34xieE": {
+          "type": "question",
+          "settings": {
+            "question": "קיבלתי מייל שהזמנתי אושרה. איך אוכל לדעת מתי ההזמנה תגיע אליי?",
+            "answer": "<p>ברגע שההזמנה שלך תהיה מוכנה ותעבור לחברת המשלוחים, תקבל הודעת SMS עם צפי מועד קבלת ההזמנה. שעות פעילות המשלוחים שלנו: ימי חול (א'-ה') - 11:00-18:00.</p>"
+          }
+        },
+        "question_nNKfYz": {
+          "type": "question",
+          "settings": {
+            "question": "תוך כמה זמן תגיע אליי ההזמנה שעשיתי?",
+            "answer": "<p>אנו מתחייבים להגיע עם הצמחים שלכם בתוך 5-7 (תלוי איזור שילוח) ימי עסקים מרגע אישור ההזמנה. \"ימי העסקים\" שלנו הם ראשון עד חמישי, כאשר יום ביצוע ההזמנה נספר מיום העסקים הבא. ימי שישי, שבת, חג, שבתון, ימי זכרון וחול המועד - לא נספרים כ״ימי עסקים״.</p>"
+          }
+        },
+        "question_rYqrbi": {
+          "type": "question",
+          "settings": {
+            "question": "האם ניתן לשלם עם גיפט קארד ושוברים?",
+            "answer": "<p>ניתן לשלם עם שוברי הגיפט קארד שלנו ישירות באתר באמצעות קוד השובר שברשותכם. במידה ויש ברשותכם קופון BuyMe, ניתן לממש אותו ידנית על ידי שליחת פרטי עגלת הקניות שלכם / הפריטים שאתם מעוניינים לרכוש לוואטסאפ שלנו יחד עם מספר השובר שברשותכם.</p>"
+          }
+        },
+        "category_GyNWy9": {
+          "type": "category",
+          "settings": {
+            "title": "משלוחים",
+            "icon": "none",
+            "icon_width": 16
+          }
+        },
+        "question_VNVx9L": {
+          "type": "question",
+          "settings": {
+            "question": "מהם אזורי השילוח שלכם?",
+            "answer": "<p>בגדול אנחנו מגיעים מרחובות ועד כפר סבא. בקטן תלחצו כאן ותראו בדיוק לאן.<br/>במידה ואתם לא בטוחים אם העיר שלכם כלולה ברשימה או שיש לכם שאלות נוספות, אתם תמיד מוזמנים לשלוח לנו הודעה במייל או בוואטסאפ.</p>"
+          }
+        },
+        "question_QhgWiz": {
+          "type": "question",
+          "settings": {
+            "question": "האם יש אפשרות לאיסוף עצמי?",
+            "answer": "<p>במידה ובחרתם באופציית איסוף עצמאי מהמרכז הלוגיסטי שלנו, ניתן לבצע את איסוף ההזמנה לאחר 2 ימי עסקים בכתובת יצחק קורדובה 76 משמר השבעה. האיסוף יתבצע רק לאחר תיאום מראש בטלפון, וצאפ או במייל. בגלל שמדובר בצמחים (וחשוב לנו שתקבלו אותם הכי רעננים ויפים שיש) ההזמנה שלכם תארז רק לאחר שתאשרו את האיסוף.</p>"
+          }
+        },
+        "question_U4nXgN": {
+          "type": "question",
+          "settings": {
+            "question": "קיבלתי מייל שהזמנתי אושרה. איך אוכל לדעת מתי ההזמנה תגיע אליי?",
+            "answer": "<p>ברגע שההזמנה שלך תהיה מוכנה ותעבור לחברת המשלוחים, תקבל הודעת SMS עם צפי מועד קבלת ההזמנה. שעות פעילות המשלוחים שלנו: ימי חול (א'-ה') - 11:00-18:00. לא ניתן לתאם שעת הגעה ספציפית של ההזמנה. המשלוח יגיע בתאריך הנבחר ובטווח השעות המוצג. לשאלות בנושא אפשר ליצור קשר איתנו ישירות.</p>"
+          }
+        },
+        "question_Ygti6E": {
+          "type": "question",
+          "settings": {
+            "question": "תוך כמה זמן תגיע אליי ההזמנה שעשיתי?",
+            "answer": "<p>אנו מתחייבים להגיע עם הצמחים שלכם בתוך 5-8 ימי עסקים לאזור המרכז ו 7 ימים לאזור ירושלים, הצפון והדרום (בהתאם לאיזורי השילוח) מרגע אישור ההזמנה. \"ימי העסקים\" הם ראשון עד חמישי, כאשר יום ביצוע ההזמנה נספר מיום העסקים הבא. ימי שישי, שבת, חג, שבתון, ימי זכרון וחול המועד - לא נספרים כ״ימי עסקים״.</p>"
+          }
+        },
+        "question_74cVUK": {
+          "type": "question",
+          "settings": {
+            "question": "מהי מדיניות ההחזרה שלכם?",
+            "answer": "<p>צמחים מוגדרים בחוק הגנת הצרכן כ\"מוצרים מתכלים\" ולכן אין חובה לקבלם בחזרה מרגע הרכישה. יחד עם זאת \"HOYA\" נותנת אפשרות החזרת צמחים/כלים עד שלושה ימים מיום הרכישה ולא יאוחר מ 3 ימי עסקים כמפורט לעיל. אנחנו ממש רוצים שתהיו שלמים ותהנו מההזמנה שעשיתם אצלנו. במידה ואתם רוצים ששליח שלנו יגיע אליכם לאסוף מכם את הפריטים - עלות דמי הטיפול והמשלוח הינם 30 ש״ח. במידה ותרצו להשיב אותם בעצמכם בעצמכם אנא צרו איתנו קשר וההחזרה תהיה ללא תשלום כלשהו.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "category_bRbTTg",
+        "question_4jki3D",
+        "question_BxyzMU",
+        "question_WafqgP",
+        "category_nnYYH7",
+        "question_yMRYxi",
+        "question_rAggic",
+        "question_8D7eww",
+        "question_iDqx3p",
+        "question_PUeNrn",
+        "question_67kceR",
+        "question_AFNBBN",
+        "question_t4nMDm",
+        "question_WxLAqJ",
+        "category_HDrDNC",
+        "question_QmUTtA",
+        "question_Jyq7J4",
+        "question_34xieE",
+        "question_nNKfYz",
+        "question_rYqrbi",
+        "category_GyNWy9",
+        "question_VNVx9L",
+        "question_QhgWiz",
+        "question_U4nXgN",
+        "question_Ygti6E",
+        "question_74cVUK"
+      ],
+      "disabled": true,
+      "name": "t:sections.faq.presets.faq.name",
+      "settings": {
+        "color_scheme": "scheme-1372110e-9b33-459c-982b-50c61ea6dee6",
+        "separate_section_with_border": true,
+        "show_categories": false,
+        "subheading": "צריכים עזרה?",
+        "title": "ריכזנו את כל השאלות החשובות",
+        "content": ""
+      }
+    },
+    "image_with_text_zQq7MW": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_bWx3RP": {
+          "type": "heading",
+          "settings": {
+            "text": "<strong>לְעָצֶץ לכם את המשרד:</strong>",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_KhwhNK": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>נכנסתם למשרד חדש ובא לכם להכניס קצת ירוק? רוצים לרענן את המשרד הקיים עם צמחים ולא ידעים מאיפה להתחיל? אנחנו ב-HOYA בוחרים במיוחד את הצמחים הנכונים עבור החלל שלכם. כאלה שלא זקוקים להרבה אור או להשקייה מרובה, שיתאימו לסביבה פנים משרדית, יחזיקו לאורך זמן ובעיקר, יוכלו להפוך כל פינה אפורה ומשעממת לירוקה, יפה ומלאת אנרגיה!<br/><a href=\"https://www.ho-ya.co.il/pages/hoya-biz#contact-form\" title=\"https://www.ho-ya.co.il/pages/hoya-biz#contact-form\"><span style=\"text-decoration:underline\"><strong>לקבלת הצעת מחיר לחץ כאן</strong></span></a><strong>!</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_bWx3RP",
+        "richtext_KhwhNK"
+      ],
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "color_scheme": "scheme-1372110e-9b33-459c-982b-50c61ea6dee6",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/Peled-Studios---Stone-Mill-173-HDR-copy_953x_d5276928-e105-4d23-8720-327089312cbb.webp",
+        "mobile_image": "shopify://shop_images/Peled-Studios---Stone-Mill-173-HDR-copy_953x_d5276928-e105-4d23-8720-327089312cbb.webp",
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "lg",
+        "remove_vertical_spacing": true
+      }
+    },
+    "image_with_text_yepkfx": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_kHdCQE": {
+          "type": "heading",
+          "settings": {
+            "text": "<strong>מתנה צומחת</strong>",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_H9CEMK": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>מחפשים מתנות ייחודיות לעובדים, לקוחות, מנהלים?<br/>מתנה כזו שתכניס הרבה צבע לחיים שלהם ותוריד את כל המתחים. אצלנו תוכלו לפנק במתנה ייחודית וצומחת שתישאר איתם לאורך זמן!<br/><br/>קולקציית \"3D\" החדשה שלנו - סדרת בתי עציץ במהדורה מוגבלת המודפסת תלת מימדית שיוצרה במיוחד עבורנו. בתי העציץ יכולים להגיע אליכם ממותגים ומעוצבים בהתאם לכל קונספט שתרצו. המארזים שלנו, הם הדרך הירוקה, הנוחה והמקורית למתנה המושלמת. להזמנות ושאלות <a href=\"https://www.ho-ya.co.il/pages/hoya-biz#contact-form\" title=\"https://www.ho-ya.co.il/pages/hoya-biz#contact-form\"><span style=\"text-decoration:underline\"><strong>השאירו פרטים כאן</strong></span><strong>!</strong></a></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_kHdCQE",
+        "richtext_H9CEMK"
+      ],
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/MG_39500000-Edit_953x_941d29e8-32eb-47c5-853a-10ded49feefa.webp",
+        "mobile_image": "shopify://shop_images/MG_39500000-Edit_953x_941d29e8-32eb-47c5-853a-10ded49feefa.webp",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "lg",
+        "remove_vertical_spacing": true
+      }
+    },
+    "logo_list_Mx4QBd": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_Jq7Yp3": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/indexs---bidalgo--2_large_923bee95-e39a-4860-9c87-6a17f45e19d4.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_AwEanN": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/indexs-yotpo-logo-2_large_fdd5f86f-20a4-4f6a-a19c-ef079c14de8b.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_UTEyCw": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/indexs-singular-2_large_303b6cf0-3b05-4564-8eb4-c87fc7341ae6.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_VYpMmz": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/indexs--we-ski-logo-2_large_3e0e35aa-33d7-452e-bf01-08369940cad6.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_Hdfphy": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/indexs-taboola-logo-2_large_e226c661-416a-41ce-afe2-75caeb82ab50.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_jxFp6U": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/indexs--similar-logo-2_large_2e551da8-ccb8-470a-969d-bcaafb1e4d09.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_WBaKGr": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/indexs--operativ-logo-2_large_8b3be5bb-71af-4952-83cf-1e1e8275d9fc.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_Fxap7B": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/indexs-really-good-2_large_b570cd6a-7f28-4378-bc3f-a0eabed6cdb3.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_PabmbB": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/indexs--intango-intel--2_large_1.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_Y8BpUE": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/indexs--wework-logo-2_large_d8d8b3c5-9d12-4377-ab03-ed30d664e5e6.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_BYMpqb": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/indexs--oop--logo-2_large_557966ab-c012-4302-acd9-1f240d1b4f66.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_C74wbJ": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/indexs--next-silicon-logo-2_large_fe5e4bee-75f0-4afa-94c4-50b13e804201.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_gbWqgC": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/indexs--intango-logo-2_large_f1e81a80-1aaa-41dd-bae8-c51735481a30.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_QMEaqb": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/indexs--s-t-logo-2_large_b9d1402e-d23d-4c6a-b8b6-54c0d383af71.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_Vq8kLg": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/indexs--samsung-logo-2_large_b657e561-873c-44c4-8bf9-1d379947f590.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_VnRhTm": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/indexs--maxq-logo-2_large_9f5567be-b27d-48ee-a8d4-58a92419881e.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_g3N3XA": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/indexs-plarium-logo-2_large_4af8ac8c-478d-48b1-9a59-8bcb113fe7e2.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_qCkUGV": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/indexs-veev-logo-2_large_f414b929-008f-4b23-abdd-ad3f9ac8dab0.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_dF68Q6": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/indexs---sparks--2_large_9ac01861-c984-4522-bb7f-3fb64dceec1d.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_BnAMwE": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/indexs--larmpa-logo-2_large_a62fcc95-1005-47ed-afa4-d84542197028.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_k8xr9V": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/indexs--starkware-logo-2_large_78d526ae-82d5-4c4c-a0a5-20c04f4252cf.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_xiLAUK": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/indexs--inter-israel-logo-2_large_b9ea3ecb-635b-4e1c-901b-d22a550a523c.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_Uk3TVT": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/indexs--max-logo-2_large_7687d0da-4570-424e-83f4-d700010d65a4.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_ycQJf4": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/indexs---buyme--2_large_80352433-c7fe-433d-b297-97a7a43fd8d4.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_xit3Bm": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/indexs--green-invoic-logo-2_large_94a48f7c-cca9-45f4-a16e-3dbe47afa5cc.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_VHQN8M": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/indexs---rise--2_large_bfd759e7-97f7-454b-a062-6152d3b7bf46.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_JVJnkA": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/indexs--madlan-logo-2_large_4d587e55-f127-42e1-b023-b9a9f0809705.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_jtJhTn": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/indexs---ravbareih--2_large_7f2e1e7b-8f2e-4e95-a693-a47376b87662.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_jzJadb": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/indexs--gett--logo-2_large_2e040519-9c94-4915-8165-97aa75609e49.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_ir4yUB": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/indexs--armis--logo-2_large_3e0b9265-1fcf-49cd-a421-139866bf61a1.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_mnHHaC": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/indexs--green-koren-2_large_83d28938-9dfe-4f1a-ac1f-bca092e00be0.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_nPiT9N": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/indexs---bidalgo--2_large_923bee95-e39a-4860-9c87-6a17f45e19d4.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_JQ6LDq": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/indexs--metodica-logo-2_large_d2e00e0d-c729-4b9b-8bf3-acd4be249fbc.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_Bic9Ab": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/indexs---fabric--2_large_f4aea4d3-c259-4786-b085-5b637e9acda7.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_CqG6iK": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/indexs--fibo-logo-2_large_91ef9403-6dd2-43d4-9a9f-bf46b81fb1eb.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_Jq7Yp3",
+        "logo_AwEanN",
+        "logo_UTEyCw",
+        "logo_VYpMmz",
+        "logo_Hdfphy",
+        "logo_jxFp6U",
+        "logo_WBaKGr",
+        "logo_Fxap7B",
+        "logo_PabmbB",
+        "logo_Y8BpUE",
+        "logo_BYMpqb",
+        "logo_C74wbJ",
+        "logo_gbWqgC",
+        "logo_QMEaqb",
+        "logo_Vq8kLg",
+        "logo_VnRhTm",
+        "logo_g3N3XA",
+        "logo_qCkUGV",
+        "logo_dF68Q6",
+        "logo_BnAMwE",
+        "logo_k8xr9V",
+        "logo_xiLAUK",
+        "logo_Uk3TVT",
+        "logo_ycQJf4",
+        "logo_xit3Bm",
+        "logo_VHQN8M",
+        "logo_JVJnkA",
+        "logo_jtJhTn",
+        "logo_jzJadb",
+        "logo_ir4yUB",
+        "logo_mnHHaC",
+        "logo_nPiT9N",
+        "logo_JQ6LDq",
+        "logo_Bic9Ab",
+        "logo_CqG6iK"
+      ],
+      "name": "t:sections.logo_list.presets.logo_list.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "subheading": "",
+        "title": "",
+        "stack_on_mobile": true,
+        "items_per_row": 5,
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "contact_f7mYyj": {
+      "type": "contact",
+      "name": "t:sections.contact.presets.contact_form.name",
+      "settings": {
+        "color_scheme": "scheme-1372110e-9b33-459c-982b-50c61ea6dee6",
+        "separate_section_with_border": true,
+        "subheading": "",
+        "title": "לקבלת הצעת מחיר:",
+        "content": ""
+      }
+    },
+    "text_with_icons_xWra6E": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_HPAq7C": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-phone",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "!LET’S TALK",
+            "content": "<p>contact@ho-ya.co.il</p>"
+          }
+        },
+        "item_69qYw7": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-pin",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "PICKUP",
+            "content": "<p>יצחק קורדובה 76 משמר השבעה<br/># בתיאום מראש</p>"
+          }
+        },
+        "item_brDJdH": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-timer",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "WORK TIME",
+            "content": "<p>א׳- ה׳18:00 -9:00</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_HPAq7C",
+        "item_69qYw7",
+        "item_brDJdH"
+      ],
+      "name": "t:sections.text_with_icons.presets.text_with_icons.name",
+      "settings": {
+        "color_scheme": "scheme-34020ddd-d573-4fab-a302-15afd439de20",
+        "separate_section_with_border": true,
+        "stack_on_mobile": false,
+        "icon_color": "",
+        "text_color": "",
+        "text_alignment": "center"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_8YJPLR",
+    "faq_4Um4JD",
+    "image_with_text_zQq7MW",
+    "image_with_text_yepkfx",
+    "logo_list_Mx4QBd",
+    "contact_f7mYyj",
+    "text_with_icons_xWra6E"
+  ]
+}

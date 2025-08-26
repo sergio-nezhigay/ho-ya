@@ -1,0 +1,103 @@
+{%- liquid
+  assign description_content = content | default: product.description
+  assign character_limit = char_limit | default: 300
+  assign enable_feature = product.metafields.custom.read_more_enable | default: false
+  
+  if enable_feature and description_content != blank
+    assign content_length = description_content | size
+    if content_length > character_limit
+      assign truncated_content = description_content | truncate: character_limit, ''
+      assign read_more_id = 'read-more-' | append: product.id | append: '-' | append: 'now' | date: '%s'
+    endif
+  endif
+-%}
+
+<style>
+.read-more-container {
+  position: relative;
+}
+
+.read-more-content {
+  overflow: hidden;
+  transition: all 0.3s ease-in-out;
+}
+
+.read-more-content.collapsed {
+  max-height: 150px; /* Ограниченная высота для свернутого состояния */
+}
+
+.read-more-content.expanded {
+  max-height: none; /* Неограниченная высота для развернутого состояния */
+}
+
+.read-more-toggle {
+  color: #ff69b4 !important;
+  cursor: pointer;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 10px;
+  transition: opacity 0.2s ease;
+}
+
+.read-more-toggle:hover {
+  opacity: 0.8;
+  text-decoration: underline;
+}
+
+.read-more-fade {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 30px;
+  background: linear-gradient(transparent, rgba(255, 255, 255, 0.9));
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+}
+
+.read-more-fade.hidden {
+  opacity: 0;
+}
+</style>
+
+{%- if enable_feature and description_content != blank and content_length > character_limit -%}
+  <div class="read-more-container">
+    <div class="read-more-content collapsed" id="{{ read_more_id }}-content">
+      {{ description_content }}
+    </div>
+    <div class="read-more-fade" id="{{ read_more_id }}-fade"></div>
+    <a href="#" class="read-more-toggle" id="{{ read_more_id }}-toggle" onclick="toggleReadMore('{{ read_more_id }}'); return false;">
+      <span class="read-more-text">קרא עוד</span>
+      <span class="read-less-text" style="display: none;">קרא פחות</span>
+    </a>
+  </div>
+
+  <script>
+    function toggleReadMore(id) {
+      const content = document.getElementById(id + '-content');
+      const toggle = document.getElementById(id + '-toggle');
+      const fade = document.getElementById(id + '-fade');
+      const readMoreText = toggle.querySelector('.read-more-text');
+      const readLessText = toggle.querySelector('.read-less-text');
+      
+      if (content.classList.contains('collapsed')) {
+        // Expand - показываем полный текст
+        content.classList.remove('collapsed');
+        content.classList.add('expanded');
+        fade.classList.add('hidden');
+        readMoreText.style.display = 'none';
+        readLessText.style.display = 'inline';
+      } else {
+        // Collapse - сворачиваем текст
+        content.classList.remove('expanded');
+        content.classList.add('collapsed');
+        fade.classList.remove('hidden');
+        readMoreText.style.display = 'inline';
+        readLessText.style.display = 'none';
+      }
+    }
+  </script>
+{%- else -%}
+  {{ description_content }}
+{%- endif -%}

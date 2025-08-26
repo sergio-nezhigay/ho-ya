@@ -1,0 +1,558 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "current": {
+    "image_options_count": 90,
+    "filter_color1": "כד משתלה",
+    "filter_color1_image": "shopify://shop_images/223d5e5a6af6922c785a7e765078df6e.jpg",
+    "filter_color2": "כד משתלה מוס",
+    "filter_color2_image": "shopify://shop_images/basic.jpg",
+    "filter_color3": "כד טרקוטה קרם קוטר 11 סמ",
+    "filter_color3_image": "shopify://shop_images/filter_color4.jpg",
+    "filter_color4": "כד טרקוטה קרם קוטר 14 סמ",
+    "filter_color4_image": "shopify://shop_images/filter_color4.jpg",
+    "filter_color5": "צבע פיסטוק | קוטר 23 | אקוגרין כד",
+    "filter_color5_image": "shopify://shop_images/filter_color5.jpg",
+    "filter_color6": "צבע שחור | קוטר 23 | אקוגרין כד",
+    "filter_color6_image": "shopify://shop_images/filter_color6.jpg",
+    "filter_color7": "כד אקוגרין | צבע צהוב | קוטר 24",
+    "filter_color7_image": "shopify://shop_images/filter_color7.jpg",
+    "filter_color8": "צבע חמרה | קוטר 29 | אקוגרין כד",
+    "filter_color8_image": "shopify://shop_images/filter_color8.jpg",
+    "filter_color9": "צבע שחור | קוטר 29 | אקוגרין כד",
+    "filter_color9_image": "shopify://shop_images/filter_color9.jpg",
+    "filter_color10": "צבע צהוב | קוטר 29 | אקוגרין כד",
+    "filter_color10_image": "shopify://shop_images/filter_color10.jpg",
+    "filter_color11": "צילנדר פסים עם תחתית | צבע לבן | קוטר 13",
+    "filter_color11_image": "shopify://shop_images/filter_color11.jpg",
+    "filter_color12": "צילנדר פסים עם תחתית | צבע ורוד | קוטר 13",
+    "filter_color12_image": "shopify://shop_images/filter_color12.jpg",
+    "filter_color13": "צילנדר עם תחתית | צבע לבן | קוטר 13",
+    "filter_color13_image": "shopify://shop_images/filter_color13.jpg",
+    "filter_color14": "צילנדר עם תחתית | צבע שחור | קוטר 13",
+    "filter_color14_image": "shopify://shop_images/filter_color14.jpg",
+    "filter_color15": "צילנדר עם תחתית | צבע צהוב | קוטר 13",
+    "filter_color15_image": "shopify://shop_images/filter_color15.jpg",
+    "filter_color16": "צילנדר עם תחתית | צבע בורדו | קוטר 13",
+    "filter_color16_image": "shopify://shop_images/filter_color16.jpg",
+    "filter_color17": "צילנדר עם תחתית | צבע אפור | קוטר 13",
+    "filter_color17_image": "shopify://shop_images/filter_color17.jpg",
+    "filter_color18": "צילנדר פסים עם תחתית | צבע ורוד | קוטר 16",
+    "filter_color18_image": "shopify://shop_images/filter_color18.jpg",
+    "filter_color19": "צילנדר פסים עם תחתית | צבע לבן | קוטר 16",
+    "filter_color19_image": "shopify://shop_images/filter_color19.jpg",
+    "filter_color20": "צילנדר פסים עם תחתית | צבע ירוק בהיר | קוטר 16",
+    "filter_color20_image": "shopify://shop_images/filter_color20.jpg",
+    "filter_color21": "צילנדר פסים עם תחתית | צבע אפור | קוטר 16",
+    "filter_color21_image": "shopify://shop_images/filter_color21.jpg",
+    "filter_color22": "כד רומי | צבע ירוק כהה | קוטר 16",
+    "filter_color22_image": "shopify://shop_images/filter_color22.jpg",
+    "filter_color23": "כד רומי | צבע אפור | קוטר 16",
+    "filter_color23_image": "shopify://shop_images/filter_color23.jpg",
+    "filter_color24": "צילנדר עם תחתית | צבע שחור | קוטר 19",
+    "filter_color24_image": "shopify://shop_images/filter_color24.jpg",
+    "filter_color25": "צילנדר עם תחתית | צבע צהוב | קוטר 19",
+    "filter_color25_image": "shopify://shop_images/filter_color25.jpg",
+    "filter_color26": "צילנדר עם תחתית | צבע לבן | קוטר 19",
+    "filter_color26_image": "shopify://shop_images/filter_color26.jpg",
+    "filter_color27": "כד רומי | צבע חמרה | קוטר 16",
+    "filter_color27_image": "shopify://shop_images/filter_color27.jpg",
+    "filter_color28": "כד ברלין  | צבע שחור | קוטר 26 סמ גובה 50 סמ",
+    "filter_color28_image": "shopify://shop_images/filter_color28.jpg",
+    "filter_color29": "כד ברלין  | צבע לבן | קוטר 26 סמ גובה 50 סמ",
+    "filter_color29_image": "shopify://shop_images/filter_color29.jpg",
+    "filter_color30": "כד ברלין  | צבע חמרה | קוטר 26 סמ גובה 50 סמ",
+    "filter_color30_image": "shopify://shop_images/filter_color30.jpg",
+    "filter_color31": "צילנדר עם תחתית | צבע לבן | קוטר 25",
+    "filter_color31_image": "shopify://shop_images/filter_color31.jpg",
+    "filter_color32": "צילנדר עם תחתית | צבע שחור | קוטר 25",
+    "filter_color32_image": "shopify://shop_images/filter_color32.jpg",
+    "filter_color33": "צילנדר פסים עם תחתית | צבע כחול | קוטר 13",
+    "filter_color33_image": "shopify://shop_images/filter_color33.jpg",
+    "filter_color34": "צילנדר פסים עם תחתית | צבע ורוד | קוטר 25",
+    "filter_color34_image": "shopify://shop_images/filter_color34.jpg",
+    "filter_color35": "צילנדר פסים עם תחתית | צבע חמרה | קוטר 25",
+    "filter_color35_image": "shopify://shop_images/filter_color35.jpg",
+    "filter_color36": "בהדפסת תלת מימד | Babushka | קוטר 16",
+    "filter_color36_image": "shopify://shop_images/filter_color36.jpg",
+    "filter_color37": "בהדפסת תלת מימד | Babushka | קוטר 13",
+    "filter_color37_image": "shopify://shop_images/filter_color37.jpg",
+    "filter_color38": "מיני צילינדר | צבע לבן פסים | קוטר 8 סמ",
+    "filter_color38_image": "shopify://shop_images/filter_color38.jpg",
+    "filter_color39": "מיני צילינדר | צבע אפור פסים | קוטר 8 סמ",
+    "filter_color39_image": "shopify://shop_images/filter_color39.jpg",
+    "filter_color40": "מיני צילינדר | צבע ורוד פסים | קוטר 8 סמ",
+    "filter_color40_image": "shopify://shop_images/filter_color40.jpg",
+    "filter_color41": "צבע צהוב | קוטר 16 | אקוגרין כד",
+    "filter_color41_image": "shopify://shop_images/filter_color41.jpg",
+    "filter_color42": "צבע שחור | קוטר 16 | אקוגרין כד",
+    "filter_color42_image": "shopify://shop_images/filter_color42.jpg",
+    "filter_color43": "צבע מוקה | קוטר 16 | אקוגרין כד",
+    "filter_color43_image": "shopify://shop_images/filter_color43.jpg",
+    "filter_color44": "צבע אפור | קוטר 16 | אקוגרין כד",
+    "filter_color44_image": "shopify://shop_images/filter_color44.jpg",
+    "filter_color45": "צילנדר עם תחתית | צבע ורוד | קוטר 25",
+    "filter_color45_image": "shopify://shop_images/filter_color45.jpg",
+    "filter_color46": "צילנדר עם תחתית | צבע ורוד | קוטר 19",
+    "filter_color46_image": "shopify://shop_images/filter_color46.jpg",
+    "filter_color47": "צילנדר עם תחתית | צבע חמרה | קוטר 19",
+    "filter_color47_image": "shopify://shop_images/filter_color47.jpg",
+    "filter_color48": "צילנדר עם תחתית | צבע חמרה | קוטר 25",
+    "filter_color48_image": "shopify://shop_images/filter_color48.jpg",
+    "filter_color49": "צבע פיסטוק | קוטר 29 | אקוגרין כד",
+    "filter_color49_image": "shopify://shop_images/filter_color49.jpg",
+    "filter_color50": "צילנדר פסים עם תחתית | צבע אפור | קוטר 13",
+    "filter_color50_image": "shopify://shop_images/filter_color50.jpg",
+    "filter_color51": "צילנדר פסים עם תחתית | צבע ירוק | קוטר 13",
+    "filter_color51_image": "shopify://shop_images/filter_color51.jpg",
+    "filter_color52": "ששש",
+    "filter_color52_image": "shopify://shop_images/filter_color52.jpg",
+    "filter_color53": "בהדפסת תלת מימד | LAVA | קוטר 13",
+    "filter_color53_image": "shopify://shop_images/filter_color53.jpg",
+    "filter_color54": "בהדפסת תלת מימד | LAVA | קוטר 16",
+    "filter_color54_image": "shopify://shop_images/filter_color54.jpg",
+    "filter_color55": "בהדפסת תלת מימד | BLOB | קוטר 13",
+    "filter_color55_image": "shopify://shop_images/filter_color55.jpg",
+    "filter_color56": "בהדפסת תלת מימד | BLOB | קוטר 16",
+    "filter_color56_image": "shopify://shop_images/filter_color56.jpg",
+    "filter_color57": "בהדפסת תלת מימד | CUBEE | קוטר 13",
+    "filter_color57_image": "shopify://shop_images/filter_color57.jpg",
+    "filter_color58": "בהדפסת תלת מימד | CUBEE | קוטר 16",
+    "filter_color58_image": "shopify://shop_images/filter_color58.jpg",
+    "filter_color59": "בהדפסת תלת מימד | COSIN | קוטר 13",
+    "filter_color59_image": "shopify://shop_images/filter_color59.jpg",
+    "filter_color60": "בהדפסת תלת מימד | COSIN | קוטר 16",
+    "filter_color60_image": "shopify://shop_images/filter_color60.jpg",
+    "filter_color61": "בהדפסת תלת מימד | COSIN | קוטר 7",
+    "filter_color61_image": "shopify://shop_images/filter_color61.jpg",
+    "filter_color62": "בהדפסת תלת מימד | CUBEE | קוטר 7",
+    "filter_color62_image": "shopify://shop_images/filter_color62.jpg",
+    "filter_color63": "בהדפסת תלת מימד | BLOB | קוטר 7",
+    "filter_color63_image": "shopify://shop_images/filter_color63.jpg",
+    "filter_color64": "בהדפסת תלת מימד | LAVA | קוטר 7",
+    "filter_color64_image": "shopify://shop_images/filter_color64.jpg",
+    "filter_color65": "בהדפסת תלת מימד | Babushka | קוטר 7",
+    "filter_color65_image": "shopify://shop_images/filter_color65.jpg",
+    "filter_color66": "סלסלה אינדונזית | S",
+    "filter_color66_image": "shopify://shop_images/filter_color66.jpg",
+    "filter_color67": "סלסלה אינדונזית | M",
+    "filter_color67_image": "shopify://shop_images/filter_color67.jpg",
+    "filter_color68": "סלסלה אינדונזית | L",
+    "filter_color68_image": "shopify://shop_images/filter_color68.jpg",
+    "filter_color69": "סלסלה אינדונזית | XL",
+    "filter_color69_image": "shopify://shop_images/filter_color69.jpg",
+    "filter_color70": "סלסלה אינדונזית | XXL",
+    "filter_color70_image": "shopify://shop_images/filter_color70.jpg",
+    "filter_color71": "צילנדר עם תחתית | צבע אפור | קוטר 16",
+    "filter_color71_image": "shopify://shop_images/filter_color71.jpg",
+    "filter_color72": "ונוס פסים עם תחתית | צבע לבן | קוטר 20",
+    "filter_color72_image": "shopify://shop_images/filter_color72.jpg",
+    "filter_color73": "ונוס פסים עם תחתית | צבע אפור | קוטר 25",
+    "filter_color73_image": "shopify://shop_images/filter_color73.jpg",
+    "filter_color74": "ונוס פסים עם תחתית | צבע אפור | קוטר 20",
+    "filter_color74_image": "shopify://shop_images/filter_color74.jpg",
+    "filter_color75": "ונוס עם תחתית | צבע קרם | קוטר 20",
+    "filter_color75_image": "shopify://shop_images/filter_color75.jpg",
+    "filter_color76": "ונוס עם תחתית | צבע קרם | קוטר 25",
+    "filter_color76_image": "shopify://shop_images/filter_color76.jpg",
+    "filter_color77": "ונוס עם תחתית | צבע כחול | קוטר 25",
+    "filter_color77_image": "shopify://shop_images/filter_color77.jpg",
+    "filter_color78": "ונוס עם תחתית | צבע כחול | קוטר 20",
+    "filter_color78_image": "shopify://shop_images/filter_color78.jpg",
+    "filter_color79": "כד רומי | צבע שחור | קוטר 16",
+    "filter_color79_image": "shopify://shop_images/filter_color79.jpg",
+    "filter_color80": "טופז כחול | ללא חור ניקוז | קוטר 13",
+    "filter_color80_image": "shopify://shop_images/filter_color80.jpg",
+    "filter_color81": "טופז טורקיז | ללא חור ניקוז | קוטר 13",
+    "filter_color81_image": "shopify://shop_images/filter_color81.jpg",
+    "filter_color82": "צילנדר פסים עם תחתית | צבע שחור | קוטר 13",
+    "filter_color82_image": "shopify://shop_images/filter_color82.jpg",
+    "filter_color83": "צילנדר פסים עם תחתית | צבע חמרה | קוטר 13",
+    "filter_color83_image": "shopify://shop_images/filter_color83.jpg",
+    "filter_color84": "צבע צהוב | קוטר 23 | אקוגרין כד",
+    "filter_color84_image": "shopify://shop_images/filter_color41.jpg",
+    "filter_color85": "M",
+    "filter_color85_image": "shopify://shop_images/filter_color8.jpg",
+    "filter_color86": "L",
+    "filter_color86_image": "shopify://shop_images/filter_color8.jpg",
+    "filter_color87": "XL",
+    "filter_color87_image": "shopify://shop_images/filter_color8.jpg",
+    "filter_color88": "M",
+    "filter_color88_image": "shopify://shop_images/filter_color45.jpg",
+    "icon_stroke_width": 1.9,
+    "section_vertical_spacing": "md",
+    "button_border_radius": 60,
+    "input_border_radius": 20,
+    "default_color_scheme": "scheme-1372110e-9b33-459c-982b-50c61ea6dee6",
+    "modal_color_scheme": "scheme-1372110e-9b33-459c-982b-50c61ea6dee6",
+    "product_rating_color": "#dcf442",
+    "product_on_sale_accent": "#ff9cce",
+    "product_sold_out_badge_background": "#dcf442",
+    "product_custom_badge_background": "#1c1c1c",
+    "success_color": "#307a07",
+    "warning_color": "#ed8a00",
+    "error_color": "#cb2b2b",
+    "heading_font": "jost_n4",
+    "heading_font_size_factor": 1.2,
+    "heading_letter_spacing": 11,
+    "text_font": "poppins_n4",
+    "text_font_size_mobile": 15,
+    "text_font_size_desktop": 18,
+    "button_text_font": "body",
+    "button_letter_spacing": 18,
+    "round_color_swatches": false,
+    "color_swatch_config": "כד משתלה: 223d5e5a6af6922c785a7e765078df6e.jpg?v=1747812759",
+    "product_card_text_font": "body",
+    "product_color_display": "hide",
+    "discount_mode": "percentage",
+    "cart_icon": "shopping_cart",
+    "cart_show_free_shipping_bar": true,
+    "cart_free_shipping_threshold": "250",
+    "social_facebook": "https://www.facebook.com/HoyaIL",
+    "social_pinterest": "https://www.pinterest.com/hoya_il/",
+    "social_instagram": "https://www.instagram.com/hoya_il/",
+    "favicon": "shopify://shop_images/1_aa1ae824-6709-4296-9ed1-8694fa836a72-Photoroom.png",
+    "swatch_options_count": 50,
+    "swatch_color_1": "כד משתלה",
+    "swatch_color_1_image": "shopify://shop_images/basic.jpg",
+    "swatch_color_2": "בית עציץ: צבע צהוב | קוטר 16 | אקוגרין כד",
+    "swatch_color_2_image": "shopify://shop_images/yellow_16.jpg",
+    "swatch_color_3": "כד טרקוטה קרם קוטר 11 סמ",
+    "swatch_color_3_image": "shopify://shop_images/white_rows_16.webp",
+    "swatch_color_4": "צילנדר פסים עם תחתית | צבע לבן | קוטר 16",
+    "swatch_color_4_image": "shopify://shop_images/black_16.webp",
+    "content_for_index": [],
+    "blocks": {
+      "17676059084223943535": {
+        "type": "shopify://apps/triplewhale/blocks/triple_pixel_snippet/483d496b-3f1a-4609-aea7-8eee3b6b7a2a",
+        "disabled": false,
+        "settings": {}
+      },
+      "1744161739547163668": {
+        "type": "shopify://apps/hextom-timer-bar/blocks/ctb-embeded-block/f7b88b6e-2e87-46bc-87a9-3e3638a24fa9",
+        "disabled": false,
+        "settings": {}
+      },
+      "8208493610395315515": {
+        "type": "shopify://apps/dondy-whatsapp-chat-marketing/blocks/app-block/7f5a70cb-e171-4cc7-ac02-e2220203abd6",
+        "disabled": false,
+        "settings": {}
+      },
+      "855628211100114053": {
+        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
+        "disabled": false,
+        "settings": {}
+      },
+      "11532412952436166569": {
+        "type": "shopify://apps/loox-reviews/blocks/loox-inject/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+        "disabled": false,
+        "settings": {}
+      },
+      "18408366429334172745": {
+        "type": "shopify://apps/pop-convert-pop-ups-banners/blocks/app-embed/ed587aec-4936-43ae-a1b3-1c9e0d08f185",
+        "disabled": false,
+        "settings": {}
+      },
+      "1232542678405107163": {
+        "type": "shopify://apps/instafeed/blocks/head-block/c447db20-095d-4a10-9725-b5977662c9d5",
+        "disabled": false,
+        "settings": {}
+      }
+    },
+    "color_schemes": {
+      "scheme-1": {
+        "settings": {
+          "background": "#ffffff",
+          "background_gradient": "",
+          "text_color": "#013300",
+          "primary_button_background": "#5c5c5c",
+          "primary_button_text_color": "#ffffff",
+          "circle_button_background": "#ffffff",
+          "circle_button_icon": "#1c1c1c"
+        }
+      },
+      "scheme-2": {
+        "settings": {
+          "background": "#f3f3f3",
+          "background_gradient": "",
+          "text_color": "#013300",
+          "primary_button_background": "#5c5c5c",
+          "primary_button_text_color": "#ffffff",
+          "circle_button_background": "#ffffff",
+          "circle_button_icon": "#5c5c5c"
+        }
+      },
+      "scheme-3": {
+        "settings": {
+          "background": "#1c1c1c",
+          "background_gradient": "",
+          "text_color": "#ffffff",
+          "primary_button_background": "#ffffff",
+          "primary_button_text_color": "#1c1c1c",
+          "circle_button_background": "#ffffff",
+          "circle_button_icon": "#1c1c1c"
+        }
+      },
+      "scheme-4": {
+        "settings": {
+          "background": "rgba(0,0,0,0)",
+          "background_gradient": "",
+          "text_color": "#ffffff",
+          "primary_button_background": "#ffffff",
+          "primary_button_text_color": "#1c1c1c",
+          "circle_button_background": "#ffffff",
+          "circle_button_icon": "#1c1c1c"
+        }
+      },
+      "scheme-af8919aa-3bb1-4ea3-beeb-2a37c6925a6b": {
+        "settings": {
+          "background": "#dcf442",
+          "background_gradient": "",
+          "text_color": "#013300",
+          "primary_button_background": "#dcf442",
+          "primary_button_text_color": "#013300",
+          "circle_button_background": "#ffffff",
+          "circle_button_icon": "#1c1c1c"
+        }
+      },
+      "scheme-1372110e-9b33-459c-982b-50c61ea6dee6": {
+        "settings": {
+          "background": "#ffffff",
+          "background_gradient": "",
+          "text_color": "#013300",
+          "primary_button_background": "#dcf442",
+          "primary_button_text_color": "#013300",
+          "circle_button_background": "#ffffff",
+          "circle_button_icon": "#1c1c1c"
+        }
+      },
+      "scheme-d62ee1b3-f39e-4594-88d1-fc08b827b6e2": {
+        "settings": {
+          "background": "#013300",
+          "background_gradient": "",
+          "text_color": "#dcf442",
+          "primary_button_background": "#5c5c5c",
+          "primary_button_text_color": "#ffffff",
+          "circle_button_background": "#ffffff",
+          "circle_button_icon": "#1c1c1c"
+        }
+      },
+      "scheme-34020ddd-d573-4fab-a302-15afd439de20": {
+        "settings": {
+          "background": "#ff9cce",
+          "background_gradient": "",
+          "text_color": "#013300",
+          "primary_button_background": "#013300",
+          "primary_button_text_color": "#ffffff",
+          "circle_button_background": "#ffffff",
+          "circle_button_icon": "#1c1c1c"
+        }
+      },
+      "scheme-1a769a40-6c2c-471c-bc82-8e4c64172e39": {
+        "settings": {
+          "background": "#fbd700",
+          "background_gradient": "",
+          "text_color": "#013300",
+          "primary_button_background": "#ff99cc",
+          "primary_button_text_color": "#013300",
+          "circle_button_background": "#ffffff",
+          "circle_button_icon": "#1c1c1c"
+        }
+      },
+      "scheme-f77b8047-d15d-4bed-af98-6408f6a0e26a": {
+        "settings": {
+          "background": "#ffffff",
+          "background_gradient": "",
+          "text_color": "#013300",
+          "primary_button_background": "#5c5c5c",
+          "primary_button_text_color": "#ffffff",
+          "circle_button_background": "#ffffff",
+          "circle_button_icon": "#1c1c1c"
+        }
+      }
+    }
+  },
+  "presets": {
+    "Allure": {
+      "section_vertical_spacing": "md",
+      "heading_font": "instrument_sans_n4",
+      "heading_letter_spacing": 18,
+      "text_font": "nunito_n4",
+      "text_font_size_desktop": 14,
+      "button_letter_spacing": 18,
+      "color_schemes": {
+        "scheme-1": {
+          "settings": {
+            "background": "#efefef",
+            "text_color": "#1c1c1c",
+            "primary_button_background": "#1c1c1c",
+            "primary_button_text_color": "#ffffff",
+            "circle_button_background": "#ffffff",
+            "circle_button_icon": "#1c1c1c"
+          }
+        },
+        "scheme-2": {
+          "settings": {
+            "background": "#ffffff",
+            "text_color": "#1c1c1c",
+            "primary_button_background": "#1c1c1c",
+            "primary_button_text_color": "#ffffff",
+            "circle_button_background": "#ffffff",
+            "circle_button_icon": "#1c1c1c"
+          }
+        },
+        "scheme-3": {
+          "settings": {
+            "background": "#1c1c1c",
+            "text_color": "#ffffff",
+            "primary_button_background": "#ffffff",
+            "primary_button_text_color": "#1c1c1c",
+            "circle_button_background": "#ffffff",
+            "circle_button_icon": "#1c1c1c"
+          }
+        },
+        "scheme-4": {
+          "settings": {
+            "background": "rgba(0,0,0,0)",
+            "text_color": "#ffffff",
+            "primary_button_background": "#ffffff",
+            "primary_button_text_color": "#1c1c1c",
+            "circle_button_background": "#ffffff",
+            "circle_button_icon": "#1c1c1c"
+          }
+        }
+      },
+      "success_color": "#307a07",
+      "warning_color": "#ed8a00",
+      "error_color": "#cb2b2b",
+      "product_rating_color": "#1c1c1c",
+      "product_on_sale_accent": "#e32c2b",
+      "product_sold_out_badge_background": "#efefef",
+      "product_custom_badge_background": "#1c1c1c"
+    },
+    "Couture": {
+      "section_vertical_spacing": "md",
+      "heading_font": "jost_n4",
+      "heading_letter_spacing": 18,
+      "text_font": "poppins_n4",
+      "text_font_size_desktop": 14,
+      "button_letter_spacing": 18,
+      "color_schemes": {
+        "scheme-1": {
+          "settings": {
+            "background": "#ffffff",
+            "text_color": "#5c5c5c",
+            "primary_button_background": "#5c5c5c",
+            "primary_button_text_color": "#ffffff",
+            "circle_button_background": "#ffffff",
+            "circle_button_icon": "#1c1c1c"
+          }
+        },
+        "scheme-2": {
+          "settings": {
+            "background": "#f3f3f3",
+            "text_color": "#5c5c5c",
+            "primary_button_background": "#5c5c5c",
+            "primary_button_text_color": "#ffffff",
+            "circle_button_background": "#ffffff",
+            "circle_button_icon": "#5c5c5c"
+          }
+        },
+        "scheme-3": {
+          "settings": {
+            "background": "#1c1c1c",
+            "text_color": "#ffffff",
+            "primary_button_background": "#ffffff",
+            "primary_button_text_color": "#1c1c1c",
+            "circle_button_background": "#ffffff",
+            "circle_button_icon": "#1c1c1c"
+          }
+        },
+        "scheme-4": {
+          "settings": {
+            "background": "rgba(0,0,0,0)",
+            "text_color": "#ffffff",
+            "primary_button_background": "#ffffff",
+            "primary_button_text_color": "#1c1c1c",
+            "circle_button_background": "#ffffff",
+            "circle_button_icon": "#1c1c1c"
+          }
+        }
+      },
+      "success_color": "#307a07",
+      "warning_color": "#ed8a00",
+      "error_color": "#cb2b2b",
+      "product_rating_color": "#1c1c1c",
+      "product_on_sale_accent": "#e32c2b",
+      "product_sold_out_badge_background": "#efefef",
+      "product_custom_badge_background": "#1c1c1c"
+    },
+    "Vogue": {
+      "section_vertical_spacing": "xs",
+      "heading_font": "jost_n4",
+      "heading_letter_spacing": 18,
+      "text_font": "jost_n4",
+      "text_font_size_desktop": 14,
+      "button_letter_spacing": 18,
+      "color_schemes": {
+        "scheme-1": {
+          "settings": {
+            "background": "#ffffff",
+            "text_color": "#303030",
+            "primary_button_background": "#f5db8b",
+            "primary_button_text_color": "#303030",
+            "circle_button_background": "#1c1c1c",
+            "circle_button_icon": "#f5db8b"
+          }
+        },
+        "scheme-2": {
+          "settings": {
+            "background": "#ffffff",
+            "text_color": "#303030",
+            "primary_button_background": "#f5db8b",
+            "primary_button_text_color": "#303030",
+            "circle_button_background": "#1c1c1c",
+            "circle_button_icon": "#f5db8b"
+          }
+        },
+        "scheme-3": {
+          "settings": {
+            "background": "#1c1c1c",
+            "text_color": "#ffffff",
+            "primary_button_background": "#ffffff",
+            "primary_button_text_color": "#1c1c1c",
+            "circle_button_background": "#ffffff",
+            "circle_button_icon": "#1c1c1c"
+          }
+        },
+        "scheme-4": {
+          "settings": {
+            "background": "rgba(0,0,0,0)",
+            "text_color": "#ffffff",
+            "primary_button_background": "#ffffff",
+            "primary_button_text_color": "#1c1c1c",
+            "circle_button_background": "#ffffff",
+            "circle_button_icon": "#1c1c1c"
+          }
+        }
+      },
+      "success_color": "#307a07",
+      "warning_color": "#ed8a00",
+      "error_color": "#cb2b2b",
+      "product_rating_color": "#1c1c1c",
+      "product_on_sale_accent": "#e32c2b",
+      "product_sold_out_badge_background": "#efefef",
+      "product_custom_badge_background": "#1c1c1c"
+    }
+  },
+  "platform_customizations": {
+    "custom_css": []
+  }
+}

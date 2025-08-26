@@ -1,0 +1,233 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "footer",
+  "name": "Footer group",
+  "sections": {
+    "faq_gLYfeX": {
+      "type": "faq",
+      "blocks": {
+        "question_RLfMGV": {
+          "type": "question",
+          "settings": {
+            "question": "כמה קל לטפל בצמחי הבית שאתם שולחים לי?",
+            "answer": "<p>לא צריך להיות בוגר 8200 כדי להצליח עם הצמחים שלנו 😉<br/><br/>אתם בוחרים את הצמח שמתאים לכם, ולכל צמח באתר מצורפים פרטים ברורים על התנאים שהוא אוהב – אור, מים, ואווירה כללית. כל מה שצריך זה לבחור נכון ולעקוב אחרי ההנחיות באתר. זה פשוט, ואנחנו כאן אם תצטרכו עזרה.</p>"
+          }
+        },
+        "question_NbWFTN": {
+          "type": "question",
+          "settings": {
+            "question": "מהם אזורי השילוח שלכם?",
+            "answer": "<p>אנחנו שולחים צמחים לכל נקודה בארץ – מצפון ועד דרום.<br/><br/>לא משנה איפה אתם גרים – ההזמנה תגיע אליכם עם שליח עד הבית.</p><p>אם אתם לא בטוחים לגבי זמני האספקה או רוצים לבדוק משהו נקודתי, מוזמנים לפנות אלינו בוואטסאפ או במייל – נשמח לעזור.</p>"
+          }
+        },
+        "question_nMEdnn": {
+          "type": "question",
+          "settings": {
+            "question": "איך לבחור את הצמח הנכון בשבילי?",
+            "answer": "<p>בחירת צמח לבית לא חייבת להיות מסובכת – צריך רק לשים לב לכמה דברים פשוטים:<br/><br/>✅ כמה אור יש במקום שבו הוא יעמוד – יש צמחים שמעדיפים שמש ישירה, ואחרים שיגשגו גם בפינה מוארת חלקית.<br/><br/>✅ עד כמה אתם זמינים להשקיה – יש צמחים שלא אכפת להם שתשכחו מהם קצת, ואחרים שדורשים תשומת לב קבועה.<br/><br/>✅ האם יש לכם בעלי חיים בבית – חלק מהצמחים לא מתאימים לחיות מחמד.</p><p>לכל צמח באתר שלנו מצורפות המלצות ברורות לגבי התנאים שהוא צריך – ואנחנו ממיינים מראש את כל הקטלוג לפי סוגי אור, דרישות השקיה, ועוד.<br/><br/>אם אתם מתלבטים – תמיד אפשר להתייעץ איתנו בוואטסאפ או במייל. אנחנו פה כדי לעזור לכם לבחור נכון ולהצליח.</p>"
+          }
+        },
+        "question_LdrXHB": {
+          "type": "question",
+          "settings": {
+            "question": "אני הורג.ת צמחים סדרתי, אבל אני רוצה צמחים בבית. אתם יכולים לעזור לי בכלל?",
+            "answer": "<p>ברור, אתה לא לבד – המון לקוחות שלנו התחילו בדיוק כמוך.<br/><br/>המפתח הוא לא לחפש צמח קסם, אלא לבחור צמח שמתאים לאור, להשקיה ולסבלנות שלך (גם אם היא מוגבלת).</p><p>באתר תמצאו קטגוריות ברורות שיעזרו לכם לבחור צמחים שיכולים לשרוד גם כששוכחים מהם לפעמים, ובעמודי המוצר תמצאו הסבר מדויק על מה כל צמח צריך.</p><p>ואם בכל זאת יש ספק – אנחנו זמינים בצ׳אט עם המלצות מותאמות אישית.<br/><br/>הצמח הראשון שלכם לא חייב להיות האחרון.</p>"
+          }
+        },
+        "question_DRcCxk": {
+          "type": "question",
+          "settings": {
+            "question": "תוך כמה זמן תגיע אליי ההזמנה שעשיתי?",
+            "answer": "<p>ההזמנה מגיעה לרוב הארץ בתוך <strong>3–5 ימי עסקים</strong> מרגע אישור ההזמנה (ברוב המקרים בתוך <strong>3 ימי עסקים</strong>).<br/><br/><strong>אזורים מרוחקים</strong> – למשל אילת והערבה, ים המלח, מצפה רמון, רמת הגולן – עד <strong>7 ימי עסקים</strong></p>"
+          }
+        },
+        "question_9PprCX": {
+          "type": "question",
+          "settings": {
+            "question": "מה קורה אם הצמח או הכד הגיעו לא תקינים?",
+            "answer": "<p>זה נדיר מאוד, אבל אם זה קרה – אנחנו איתכם ותמיד לוקחים אחריות מלאה! שלחו לנו תמונה ביום קבלת ההזמנה, ונדאג שיחליפו לכם את המוצר הפגום/ נזכה אתכם בהתאם לבחירתכם. בכל מקרה, אנחנו מבטיחים לכם שאנחנו נעשה הכל כדי שתצאו לא פחות ממרוצים!</p>"
+          }
+        },
+        "question_DBUGfD": {
+          "type": "question",
+          "settings": {
+            "question": "האם יש אפשרות לאיסוף עצמי?",
+            "answer": "<p>כן. ניתן לבחור באופציית איסוף עצמי מהמרכז הלוגיסטי שלנו בכתובת יצחק קורדובה 76, משמר השבעה.</p><p>האיסוף יתאפשר לאחר 2 ימי עסקים, ורק לאחר תיאום מראש בטלפון, וואטסאפ או מייל.<br/><br/>כיוון שמדובר בצמחים חיים – ההזמנה תיארז רק אחרי שתאשרו לנו שאתם בדרך, כדי לוודא שהצמחים יגיעו אליכם הכי טריים ורעננים שיש.</p>"
+          }
+        },
+        "question_hCniFw": {
+          "type": "question",
+          "settings": {
+            "question": "מהי מדיניות ההחזרה שלכם?",
+            "answer": "<p>צמחים נחשבים על פי חוק הגנת הצרכן כ\"מוצרים מתכלים\", ולכן אין חובה להחזירם לאחר הרכישה.<br/><br/>ובכל זאת – אנחנו ב-HOYA רוצים שתהיו שלמים ומרוצים מההזמנה שלכם.</p><p>ניתן להחזיר צמחים וכלים עד 3 ימי עסקים ממועד הרכישה.<br/><br/>אם תבחרו בהחזרה באמצעות שליח – עלות השירות היא 35 ש״ח.<br/><br/>אם תעדיפו להחזיר בעצמכם למרכז הלוגיסטי שלנו, ההחזרה תתבצע ללא עלות, לאחר תיאום מראש.</p><p>בכל מקרה, נשמח לעזור – פשוט צרו איתנו קשר.</p>"
+          }
+        },
+        "question_EHxRrE": {
+          "type": "question",
+          "settings": {
+            "question": "אני לא ממש מבין בצמחים – אולי עדיף לי פשוט לוותר?",
+            "answer": "<p>בדיוק בשביל זה אנחנו כאן. לא צריך להיות מומחה – רק לרצות צמח בבית. אנחנו עוזרים לכם לבחור, מדריכים אתכם איך לטפל, ונשארים זמינים גם אחרי. תתחילו מצמח אחד, ותראו שכל עוד נצמדים לתנאי הגידול שלו, זה ממש פשוט!</p>"
+          }
+        },
+        "question_DR4rt4": {
+          "type": "question",
+          "settings": {
+            "question": "איך הצמח שורד את ההובלה?",
+            "answer": "<p>כל צמח נארז אצלנו בידיים מקצועיות ובחומרים ייעודיים ששומרים עליו יציב, מוגן ומאוורר. אנחנו יודעים שמדובר במשהו חי – ולכן כל משלוח מטופל באחריות מלאה.</p>"
+          }
+        },
+        "category_MhK6KT": {
+          "type": "category",
+          "settings": {
+            "title": "לא מצאתם תשובה? <a href=\"https://wa.link/hg1i1y\" target=\"_blank\" title=\"https://wa.link/hg1i1y\">דברו איתנו</a>",
+            "icon": "none",
+            "icon_width": 16
+          }
+        }
+      },
+      "block_order": [
+        "question_RLfMGV",
+        "question_NbWFTN",
+        "question_nMEdnn",
+        "question_LdrXHB",
+        "question_DRcCxk",
+        "question_9PprCX",
+        "question_DBUGfD",
+        "question_hCniFw",
+        "question_EHxRrE",
+        "question_DR4rt4",
+        "category_MhK6KT"
+      ],
+      "settings": {
+        "color_scheme": "scheme-af8919aa-3bb1-4ea3-beeb-2a37c6925a6b",
+        "separate_section_with_border": true,
+        "show_categories": false,
+        "subheading": "יש לכם שאלה?",
+        "title": "הנה כל התשובות לשאלות הנפוצות",
+        "content": ""
+      }
+    },
+    "scrolling_content_cU6Tgc": {
+      "type": "scrolling-content",
+      "blocks": {
+        "text_hdie8W": {
+          "type": "text",
+          "settings": {
+            "text": "מבתי הגידול ועד פתח הבית"
+          }
+        },
+        "image_BJkcGd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1_aa1ae824-6709-4296-9ed1-8694fa836a72-Photoroom.png"
+          }
+        },
+        "text_zdJEFJ": {
+          "type": "text",
+          "settings": {
+            "text": "משלוח חינם מעל 250 ש\"ח"
+          }
+        },
+        "image_KAgQGT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1_aa1ae824-6709-4296-9ed1-8694fa836a72-Photoroom.png"
+          }
+        },
+        "text_hqizVd": {
+          "type": "text",
+          "settings": {
+            "text": "החזרות חינם עד 3 ימים"
+          }
+        },
+        "image_B7R4Fw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1_aa1ae824-6709-4296-9ed1-8694fa836a72-Photoroom.png"
+          }
+        }
+      },
+      "block_order": [
+        "text_hdie8W",
+        "image_BJkcGd",
+        "text_zdJEFJ",
+        "image_KAgQGT",
+        "text_hqizVd",
+        "image_B7R4Fw"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "scrolling_speed": 0.3,
+        "scroll_direction": "right",
+        "pause_on_hover": true,
+        "text_font": "heading",
+        "text_font_size_mobile": 28,
+        "text_font_size_desktop": 36,
+        "section_vertical_spacing_mobile": 40,
+        "section_vertical_spacing_desktop": 34,
+        "item_horizontal_spacing_mobile": 80,
+        "item_horizontal_spacing_desktop": 120,
+        "background": "#013300",
+        "text_color": "#dcf442"
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "newsletter": {
+          "type": "newsletter",
+          "settings": {
+            "title": "עציצים זה החיים!",
+            "content": "<p>עם הניוזלטר שלנו תהיו תמיד מעודכנים עם טיפים על גינון אורבני, הדרכות, הנחות ועוד הפתעות</p>",
+            "button_background": "#dcf442",
+            "button_text_color": "#013300"
+          }
+        },
+        "links": {
+          "type": "links",
+          "settings": {
+            "menu": "footer-menu",
+            "show_menu_title": false,
+            "menu_title": ""
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "title": "תעשו מקום לטבע",
+            "content": "<p>הויה HOYA, מותג ישראלי ירוק וצומח שמאפשר לכל אחת ואחד להכניס את הטבע הביתה. כל הפריטים באתר שלנו הם מעולמות הצומח והלייף סטייל שנועדו להעניק לכם תחושה חמימה ונעימה, לשמח, להוסיף יופי וחן, וחשוב מכך, להשפיע על בריאות הגוף והנפש.<br/></p>",
+            "enable_follow_on_shop": true
+          }
+        }
+      },
+      "block_order": [
+        "newsletter",
+        "links",
+        "text"
+      ],
+      "settings": {
+        "color_scheme": "scheme-d62ee1b3-f39e-4594-88d1-fc08b827b6e2",
+        "separate_section_with_border": true,
+        "show_social_media": true,
+        "show_payment_icons": true,
+        "show_country_selector": true,
+        "show_country_name": true,
+        "show_country_flag": true,
+        "show_locale_selector": true
+      }
+    }
+  },
+  "order": [
+    "faq_gLYfeX",
+    "scrolling_content_cU6Tgc",
+    "footer"
+  ]
+}
